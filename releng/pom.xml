@@ -25,7 +25,7 @@
 			</activation>
 
 			<modules>
-				<module>org.eclipse.emfcloud.validation.repository</module>
+				<module>org.eclipse.emfcloud.validation.releng.repository</module>
 			</modules>
 			<build>
 				<pluginManagement>
